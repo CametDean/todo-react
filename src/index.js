@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom"
 import TodoApp from "./TodoApp"
+import "./TodoCSS.css"
+
 
 ReactDOM.render(
     <TodoApp />,
